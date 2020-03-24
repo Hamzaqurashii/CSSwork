@@ -62,18 +62,18 @@ a:hover{
 }
 .firstSkil{
   position: relative;
-  height: 15%;
-  width: 15%;
+  height: 30%;
+  width: 30%;
   float: right;
-  padding-right: 10px;
+  padding-right: 20px;
 }
 .secondSkil{
   position: relative;
-  height: 15%;
-  width: 15%;
+  height: 30%;
+  width: 30%;
   border-radius: 360px;
   float: left;
-  right: 20px;
+  padding-right: 40px;
 }
 .skill-row{
   text-align: left;
