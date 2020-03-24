@@ -126,3 +126,8 @@ border-width: 10px;
   left: 17%;
   text-align: right;
 }
+.csend{
+  position: relative;
+  right: 17%;
+  text-align: left;
+}
