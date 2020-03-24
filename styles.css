@@ -65,7 +65,7 @@ a:hover{
   height: 30%;
   width: 30%;
   float: right;
-  margin-right: 30px;
+  left: 10%;
 }
 .secondSkil{
   position: relative;
@@ -73,7 +73,7 @@ a:hover{
   width: 30%;
   border-radius: 360px;
   float: left;
-  margin-left: 30px;
+  right: 10%;
 }
 .skill-row{
   text-align: left;
@@ -123,11 +123,11 @@ border-width: 10px;
 }
 .jsbd{
   position: relative;
-  left: 17%;
+  left: 25%;
   text-align: right;
 }
 .csend{
   position: relative;
-  right: 17%;
+  right: 25%;
   text-align: left;
 }
