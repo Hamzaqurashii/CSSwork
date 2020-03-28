@@ -131,3 +131,14 @@ border-width: 0.625rem;
   right: -20%;
   text-align: left;
 }
+.description{
+  position: relative;
+  width: 160%;
+  right: 3rem;
+  text-align: left;
+}
+.description1{
+  position: relative;
+  width: 160%;
+  right: 3rem;
+}
